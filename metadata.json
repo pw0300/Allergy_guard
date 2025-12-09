@@ -1,0 +1,7 @@
+{
+  "name": "AllergyGuard AI",
+  "description": "A personal AI-powered food intolerance monitor. Manage your allergy profile, analyze meals for safety, and scan product labels for hidden ingredients.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
